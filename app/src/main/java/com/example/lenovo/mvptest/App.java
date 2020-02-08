@@ -25,6 +25,7 @@ public class App extends Application {
         app = this;
         SDKInitializer.initialize(this);
         initComponent();
+//         github
     }
 
     public static App getInstance() {
